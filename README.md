@@ -1,3 +1,37 @@
+[Link til Dev](https://github.com/Tobias-E/Sunset)
+
+# Koncept 
+
+##### Hvad er formålet med projektet? Hvad er det for et problem, som projektet forsøger at løse?
+> At jeg ikke skal ændre timer for hvornår mit lys skal tænde.
+> Solnedgangen er forskellig året igennem, ændring af timer er en bedrift der forekommer mindst hver 14. dag.
+
+##### Hvem er målgruppen/målgrupperne for projektet? Hvem er det, projektet hjælper?
+> Primært mig, sekundært andre med et ewelink produkt.
+
+##### Hvilke konkrete aktiviteter består projektet af? Er projektet en hjemmeside, et loppemarked, en ny ungdomsklub eller hvad er det helt præcist?
+> PWA
+
+##### Hvordan hænger projektets aktiviteter sammen med projektets formål? Dvs. hvordan hjælper aktiviteterne projektets målgruppe(r)?
+> Jeg slipper for at skulle indstille min timer!
+
+# Feature liste
+
+- **Automatisering af timer indstilling**
+- Se solnedgang for idag (tid)
+- Se solnedgang for i morgen (tid)
+
+# User flow
+1. Indtast User information til ewelink
+2. Indtast lokalitet
+3. Indstil enhed til automatisering
+4. **Automatisering af tænd funktion på enhed**
+5. Se solnedgangs tider i PWA
+
+
+**Highlighting** = Primær funtion
+
+---
 # PWA-den-valgfrie-opgave
 
 # Formål: 
