@@ -1,6 +1,6 @@
 [Link til Dev](https://github.com/Tobias-E/Sunset)
 
-[Link til Site](sunset-timer.netlify.app)
+[Link til Site](https://sunset-timer.netlify.app)
 
 # Koncept 
 
