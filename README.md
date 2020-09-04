@@ -42,10 +42,11 @@ Opgaven har til formål at, demonstrere at **koncepterne fra PWA undervisningen*
 # Projektet skal indeholde følgende
   
   **Indledende opgave**<br>
-  *Du skal ikke bruge yderligere tid på at forfinde disse. Du har allerede lavet dem, aflever dem som de er!*
-  0. Et udfyldt **koncept** (den udleverede pdf)
-  1. En 'feature-liste' hvor **main feature** er fremhævet
-  2. Et illustreret **userflow** for main feature ex. (find sko, køb sko, følg ordre, modtag ordre)
+  *Du skal ikke bruge yderligere tid på at forfinde disse. Du har allerede lavet dem, aflever dem som de er!* 
+  <br>
+  1. Et udfyldt **koncept** (den udleverede pdf)
+  2. En 'feature-liste' hvor **main feature** er fremhævet
+  3. Et illustreret **userflow** for main feature ex. (find sko, køb sko, følg ordre, modtag ordre)
   
   **Koncepterne fra PWA undervisningen**
   0. Custom install UI element
